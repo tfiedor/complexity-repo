@@ -2,20 +2,47 @@ vcs:
   type: git
   url: ../
 
-bins:
+cmds:
     - target
 
 workloads:
     - workload.in
+
+postprocessors:
+    - name: filter
+    - name: normalizer
 
 collectors:
     - name: complexity
       params:
         target_dir: './target'
         files:
-           - '../cpp_sources/test_workload/main.cpp'
-           - '../cpp_sources/test_workload/SLList.h'
-           - '../cpp_sources/test_workload/SLListcls.h'
+           - '../cpp_sources/workload/main.cpp'
+           - '../cpp_sources/workload/SLList.h'
+           - '../cpp_sources/workload/SLListcls.h'
+        rules:
+           - 'func1'
+           - 'SLList_init'
+           - 'SLList_insert'
+           - 'SLList_search'
+           - 'SLList_destroy'
+           - 'SLListcls'
+           - '~Sllistcls'
+           - 'Insert'
+           - 'Remove'
+           - 'Search'
+        file-name: 'trace.log'
+        init-storage-size: 20000
+        sampling:
+          - func: 'func1'
+            sample: 1
+    - name: complexity
+      params:
+        target_dir: './target'
+        files:
+           - '../cpp_sources/workload/main.cpp'
+           - '../cpp_sources/workload/SLList.h'
+           - '../cpp_sources/workload/SLListcls.h'
         rules:
            - 'func1'
            - 'SLList_init'
@@ -31,6 +58,4 @@ collectors:
         init-storage-size: 20000
         sampling:
           - func: 'SLList_insert'
-            sample: 1
-          - func: 'func1'
             sample: 1
