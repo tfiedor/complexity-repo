@@ -1,9 +1,9 @@
 target_dir: './target'
 
 files:
-    - '../cpp_sources/workload/main.cpp'
-    - '../cpp_sources/workload/SLList.h'
-    - '../cpp_sources/workload/SLListcls.h'
+    - '../example_sources/simple_sll_cpp/main.cpp'
+    - '../example_sources/simple_sll_cpp/SLList.h'
+    - '../example_sources/simple_sll_cpp/SLListcls.h'
 
 rules:
     - 'func1'
