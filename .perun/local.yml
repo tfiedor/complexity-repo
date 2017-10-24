@@ -31,11 +31,8 @@ collectors:
            - 'Insert'
            - 'Remove'
            - 'Search'
-        file-name: 'trace.log'
+        internal_data_filename: 'trace.log'
         init-storage-size: 20000
-        sampling:
-          - func: 'func1'
-            sample: 1
     - name: complexity
       params:
         target_dir: './target'
@@ -54,7 +51,7 @@ collectors:
            - 'Insert'
            - 'Remove'
            - 'Search'
-        file-name: 'trace.log'
+        internal_data_filename: 'trace.log'
         init-storage-size: 20000
         sampling:
           - func: 'SLList_insert'
