@@ -1,0 +1,9 @@
+target_dir: './target'
+
+files:
+    - '../example_sources/skiplist_parameters_cpp/skiplist_height_low.cpp'
+    - '../example_sources/structures/skiplist.cpp'
+    - '../example_sources/structures/skiplist.h'
+
+rules:
+    - 'skiplistSearch'

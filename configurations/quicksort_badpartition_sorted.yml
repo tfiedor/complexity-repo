@@ -1,0 +1,8 @@
+target_dir: './target'
+
+files:
+    - '../example_sources/quicksort_inputs_cpp/quicksort_badpartition_sorted.cpp'
+    - '../example_sources/structures/sorts.h'
+
+rules:
+    - 'QuickSortBad'

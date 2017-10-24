@@ -3,7 +3,7 @@
 #include <chrono>
 #include <climits>
 #include "../structures/sorts.h"
-#include "../../profile_api.h"
+#include "../profile_api.h"
 
 const int MAX_SORT_ARR_LEN = 10000;
 const int SORT_ARR_LEN_INC = 50;

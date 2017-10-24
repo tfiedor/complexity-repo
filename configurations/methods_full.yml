@@ -1,0 +1,15 @@
+target_dir: './target'
+
+files:
+    - '../example_sources/methods_overview_cpp/methods_full.cpp'
+    - '../example_sources/structures/rbtree.h'
+
+rules:
+    - 'insert'
+    - 'search'
+
+sampling:
+    - func: 'insert'
+      sample: 1000
+    - func: 'push'
+      sample: 1000

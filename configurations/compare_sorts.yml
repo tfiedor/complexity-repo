@@ -1,0 +1,11 @@
+target_dir: './target'
+
+files:
+    - '../example_sources/compare_sorts_cpp/run_sorts.cpp'
+    - '../example_sources/structures/sorts.h'
+
+rules:
+    - 'QuickSort'
+    - 'InsertSort'
+    - 'HeapSort'
+

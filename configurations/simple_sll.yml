@@ -17,8 +17,6 @@ rules:
     - 'Remove'
     - 'Search'
 
-internal_data_filename: 'trace.log'
-init-storage-size: 20000
 sampling:
     - func: 'SLList_insert'
       sample: 1

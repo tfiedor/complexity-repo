@@ -1,0 +1,8 @@
+target_dir: './target'
+
+files:
+    - '../example_sources/methods_overview_cpp/methods_iterative.cpp'
+    - '../example_sources/structures/sorts.h'
+
+rules:
+    - 'InsertSort'

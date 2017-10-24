@@ -4,7 +4,7 @@
 #include <climits>
 #include <iostream>
 #include "../structures/skiplist.h"
-#include "../../profile_api.h"
+#include "../profile_api.h"
 
 const int skiplist_max_size = 300000;
 

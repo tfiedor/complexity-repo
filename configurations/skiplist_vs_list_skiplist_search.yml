@@ -1,0 +1,10 @@
+target_dir: './target'
+
+files:
+    - '../example_sources/skiplist_vs_list_cpp/skiplist_search.cpp'
+    - '../example_sources/structures/skiplist.cpp'
+    - '../example_sources/structures/skiplist.h'
+
+rules:
+    - 'SLList_search'
+    - 'skiplistSearch'

@@ -1,7 +1,7 @@
 #include <random>
 #include <chrono>
 #include <climits>
-#include "../../profile_api.h"
+#include "../profile_api.h"
 
 const int MAX_STACK_SIZE = 1000000;
 

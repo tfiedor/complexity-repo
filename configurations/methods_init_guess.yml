@@ -1,0 +1,7 @@
+target_dir: './target'
+
+files:
+    - '../example_sources/methods_overview_cpp/methods_init_guess.cpp'
+
+rules:
+    - 'stack_search'

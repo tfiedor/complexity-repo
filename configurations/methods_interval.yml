@@ -1,0 +1,13 @@
+target_dir: './target'
+
+files:
+    - '../example_sources/methods_overview_cpp/methods_interval.cpp'
+    - '../example_sources/structures/skiplist.cpp'
+    - '../example_sources/structures/skiplist.h'
+
+rules:
+    - 'skiplistSearch'
+
+sampling:
+    - func: 'skiplistSearch'
+      sample: 1000

@@ -3,7 +3,7 @@
 #include <chrono>
 #include <climits>
 #include "../structures/rbtree.h"
-#include "../../profile_api.h"
+#include "../profile_api.h"
 
 const int rbtree_max_size = 1000000;
 

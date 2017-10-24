@@ -4,7 +4,7 @@
 #include <climits>
 #include <iostream>
 #include "../structures/SLList.h"
-#include "../../profile_api.h"
+#include "../profile_api.h"
 
 const int list_max_size = 1000000;
 

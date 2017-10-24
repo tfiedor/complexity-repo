@@ -3,7 +3,7 @@
 #include <chrono>
 #include <climits>
 #include "../structures/skiplist.h"
-#include "../../profile_api.h"
+#include "../profile_api.h"
 
 const int skiplist_max_size = 1000000;
 
