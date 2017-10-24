@@ -1,0 +1,1407 @@
+{
+  "global": {
+    "resources": [
+      {
+        "amount": 10,
+        "structure-unit-size": 50,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 33,
+        "structure-unit-size": 100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 34,
+        "structure-unit-size": 150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 59,
+        "structure-unit-size": 200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 93,
+        "structure-unit-size": 250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 165,
+        "structure-unit-size": 300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 174,
+        "structure-unit-size": 350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 304,
+        "structure-unit-size": 400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 286,
+        "structure-unit-size": 450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 353,
+        "structure-unit-size": 500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 520,
+        "structure-unit-size": 550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 509,
+        "structure-unit-size": 600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 1196,
+        "structure-unit-size": 650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 1026,
+        "structure-unit-size": 700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 1027,
+        "structure-unit-size": 750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 1196,
+        "structure-unit-size": 800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 1771,
+        "structure-unit-size": 850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 1993,
+        "structure-unit-size": 900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 1817,
+        "structure-unit-size": 950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 1690,
+        "structure-unit-size": 1000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 1717,
+        "structure-unit-size": 1050,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 1819,
+        "structure-unit-size": 1100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 2024,
+        "structure-unit-size": 1150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 2268,
+        "structure-unit-size": 1200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 2585,
+        "structure-unit-size": 1250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 3011,
+        "structure-unit-size": 1300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 3034,
+        "structure-unit-size": 1350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 3780,
+        "structure-unit-size": 1400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 4362,
+        "structure-unit-size": 1450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 4683,
+        "structure-unit-size": 1500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 5349,
+        "structure-unit-size": 1550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 4759,
+        "structure-unit-size": 1600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 4864,
+        "structure-unit-size": 1650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 4764,
+        "structure-unit-size": 1700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 4889,
+        "structure-unit-size": 1750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 5613,
+        "structure-unit-size": 1800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 5433,
+        "structure-unit-size": 1850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 6199,
+        "structure-unit-size": 1900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 6162,
+        "structure-unit-size": 1950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 6894,
+        "structure-unit-size": 2000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 7066,
+        "structure-unit-size": 2050,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 8217,
+        "structure-unit-size": 2100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 7665,
+        "structure-unit-size": 2150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 8595,
+        "structure-unit-size": 2200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 8274,
+        "structure-unit-size": 2250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 8811,
+        "structure-unit-size": 2300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 10456,
+        "structure-unit-size": 2350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 9681,
+        "structure-unit-size": 2400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 11854,
+        "structure-unit-size": 2450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 12712,
+        "structure-unit-size": 2500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 11051,
+        "structure-unit-size": 2550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 11370,
+        "structure-unit-size": 2600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 11124,
+        "structure-unit-size": 2650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 11909,
+        "structure-unit-size": 2700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 15529,
+        "structure-unit-size": 2750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 13489,
+        "structure-unit-size": 2800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 13386,
+        "structure-unit-size": 2850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 13378,
+        "structure-unit-size": 2900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 14567,
+        "structure-unit-size": 2950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 15334,
+        "structure-unit-size": 3000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 15803,
+        "structure-unit-size": 3050,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 16873,
+        "structure-unit-size": 3100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 17894,
+        "structure-unit-size": 3150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 17578,
+        "structure-unit-size": 3200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 21147,
+        "structure-unit-size": 3250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 17580,
+        "structure-unit-size": 3300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 19117,
+        "structure-unit-size": 3350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 17889,
+        "structure-unit-size": 3400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 24319,
+        "structure-unit-size": 3450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 19272,
+        "structure-unit-size": 3500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 20318,
+        "structure-unit-size": 3550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 19753,
+        "structure-unit-size": 3600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 22044,
+        "structure-unit-size": 3650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 21429,
+        "structure-unit-size": 3700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 22128,
+        "structure-unit-size": 3750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 23966,
+        "structure-unit-size": 3800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 23562,
+        "structure-unit-size": 3850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 23920,
+        "structure-unit-size": 3900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 24399,
+        "structure-unit-size": 3950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 26381,
+        "structure-unit-size": 4000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 25387,
+        "structure-unit-size": 4050,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 26035,
+        "structure-unit-size": 4100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 27962,
+        "structure-unit-size": 4150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 27670,
+        "structure-unit-size": 4200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 27747,
+        "structure-unit-size": 4250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 29320,
+        "structure-unit-size": 4300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 31153,
+        "structure-unit-size": 4350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 30019,
+        "structure-unit-size": 4400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 29561,
+        "structure-unit-size": 4450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 31085,
+        "structure-unit-size": 4500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 32923,
+        "structure-unit-size": 4550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 32141,
+        "structure-unit-size": 4600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 33724,
+        "structure-unit-size": 4650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 34936,
+        "structure-unit-size": 4700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 36037,
+        "structure-unit-size": 4750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 36052,
+        "structure-unit-size": 4800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 37183,
+        "structure-unit-size": 4850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 36414,
+        "structure-unit-size": 4900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 37553,
+        "structure-unit-size": 4950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 38927,
+        "structure-unit-size": 5000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 38776,
+        "structure-unit-size": 5050,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 39855,
+        "structure-unit-size": 5100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 45180,
+        "structure-unit-size": 5150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 48724,
+        "structure-unit-size": 5200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 52092,
+        "structure-unit-size": 5250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 51177,
+        "structure-unit-size": 5300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 51694,
+        "structure-unit-size": 5350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 52915,
+        "structure-unit-size": 5400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 53414,
+        "structure-unit-size": 5450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 54251,
+        "structure-unit-size": 5500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 55292,
+        "structure-unit-size": 5550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 56335,
+        "structure-unit-size": 5600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 57434,
+        "structure-unit-size": 5650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 58399,
+        "structure-unit-size": 5700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 59673,
+        "structure-unit-size": 5750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 60360,
+        "structure-unit-size": 5800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 61389,
+        "structure-unit-size": 5850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 62637,
+        "structure-unit-size": 5900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 63544,
+        "structure-unit-size": 5950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 64576,
+        "structure-unit-size": 6000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 65675,
+        "structure-unit-size": 6050,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 67068,
+        "structure-unit-size": 6100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 67999,
+        "structure-unit-size": 6150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 69352,
+        "structure-unit-size": 6200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 71221,
+        "structure-unit-size": 6250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 72247,
+        "structure-unit-size": 6300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 72902,
+        "structure-unit-size": 6350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 73495,
+        "structure-unit-size": 6400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 74601,
+        "structure-unit-size": 6450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 75777,
+        "structure-unit-size": 6500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 77004,
+        "structure-unit-size": 6550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 78134,
+        "structure-unit-size": 6600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 79457,
+        "structure-unit-size": 6650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 80794,
+        "structure-unit-size": 6700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 82013,
+        "structure-unit-size": 6750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 83627,
+        "structure-unit-size": 6800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 85478,
+        "structure-unit-size": 6850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 85566,
+        "structure-unit-size": 6900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 92507,
+        "structure-unit-size": 6950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 89375,
+        "structure-unit-size": 7000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 89328,
+        "structure-unit-size": 7050,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 90497,
+        "structure-unit-size": 7100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 91640,
+        "structure-unit-size": 7150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 93361,
+        "structure-unit-size": 7200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 94746,
+        "structure-unit-size": 7250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 95732,
+        "structure-unit-size": 7300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 97341,
+        "structure-unit-size": 7350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 98592,
+        "structure-unit-size": 7400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 99628,
+        "structure-unit-size": 7450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 101124,
+        "structure-unit-size": 7500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 102727,
+        "structure-unit-size": 7550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 104136,
+        "structure-unit-size": 7600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 104941,
+        "structure-unit-size": 7650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 106936,
+        "structure-unit-size": 7700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 109322,
+        "structure-unit-size": 7750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 110882,
+        "structure-unit-size": 7800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 111044,
+        "structure-unit-size": 7850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 112344,
+        "structure-unit-size": 7900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 113947,
+        "structure-unit-size": 7950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 115296,
+        "structure-unit-size": 8000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 117052,
+        "structure-unit-size": 8050,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 123282,
+        "structure-unit-size": 8100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 119245,
+        "structure-unit-size": 8150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 121094,
+        "structure-unit-size": 8200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 123061,
+        "structure-unit-size": 8250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 124650,
+        "structure-unit-size": 8300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 126231,
+        "structure-unit-size": 8350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 127963,
+        "structure-unit-size": 8400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 128218,
+        "structure-unit-size": 8450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 129416,
+        "structure-unit-size": 8500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 143752,
+        "structure-unit-size": 8550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 133043,
+        "structure-unit-size": 8600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 134191,
+        "structure-unit-size": 8650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 135710,
+        "structure-unit-size": 8700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 137243,
+        "structure-unit-size": 8750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 138972,
+        "structure-unit-size": 8800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 140782,
+        "structure-unit-size": 8850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 142537,
+        "structure-unit-size": 8900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 144563,
+        "structure-unit-size": 8950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 151746,
+        "structure-unit-size": 9000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 146921,
+        "structure-unit-size": 9050,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 149009,
+        "structure-unit-size": 9100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 150329,
+        "structure-unit-size": 9150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 151932,
+        "structure-unit-size": 9200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 153732,
+        "structure-unit-size": 9250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 155247,
+        "structure-unit-size": 9300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 157375,
+        "structure-unit-size": 9350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 159159,
+        "structure-unit-size": 9400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 160898,
+        "structure-unit-size": 9450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 162566,
+        "structure-unit-size": 9500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 163992,
+        "structure-unit-size": 9550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 165902,
+        "structure-unit-size": 9600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 167773,
+        "structure-unit-size": 9650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 169914,
+        "structure-unit-size": 9700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 172135,
+        "structure-unit-size": 9750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 173697,
+        "structure-unit-size": 9800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 175064,
+        "structure-unit-size": 9850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 176491,
+        "structure-unit-size": 9900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 177459,
+        "structure-unit-size": 9950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 182366,
+        "structure-unit-size": 10000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      }
+    ],
+    "time": "11.975325s"
+  }
+}

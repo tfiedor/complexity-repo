@@ -1,0 +1,2107 @@
+{
+  "global": {
+    "resources": [
+      {
+        "amount": 7,
+        "structure-unit-size": 50,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 3,
+        "structure-unit-size": 50,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 5,
+        "structure-unit-size": 50,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 27,
+        "structure-unit-size": 100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 9,
+        "structure-unit-size": 100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 8,
+        "structure-unit-size": 100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 13,
+        "structure-unit-size": 150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 40,
+        "structure-unit-size": 150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 29,
+        "structure-unit-size": 150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 15,
+        "structure-unit-size": 200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 32,
+        "structure-unit-size": 200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 19,
+        "structure-unit-size": 200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 61,
+        "structure-unit-size": 250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 61,
+        "structure-unit-size": 250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 23,
+        "structure-unit-size": 250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 28,
+        "structure-unit-size": 300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 68,
+        "structure-unit-size": 300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 27,
+        "structure-unit-size": 300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 33,
+        "structure-unit-size": 350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 89,
+        "structure-unit-size": 350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 34,
+        "structure-unit-size": 350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 37,
+        "structure-unit-size": 400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 113,
+        "structure-unit-size": 400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 39,
+        "structure-unit-size": 400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 42,
+        "structure-unit-size": 450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 151,
+        "structure-unit-size": 450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 46,
+        "structure-unit-size": 450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 47,
+        "structure-unit-size": 500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 176,
+        "structure-unit-size": 500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 52,
+        "structure-unit-size": 500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 55,
+        "structure-unit-size": 550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 212,
+        "structure-unit-size": 550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 56,
+        "structure-unit-size": 550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 61,
+        "structure-unit-size": 600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 265,
+        "structure-unit-size": 600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 62,
+        "structure-unit-size": 600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 66,
+        "structure-unit-size": 650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 305,
+        "structure-unit-size": 650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 68,
+        "structure-unit-size": 650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 71,
+        "structure-unit-size": 700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 351,
+        "structure-unit-size": 700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 73,
+        "structure-unit-size": 700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 75,
+        "structure-unit-size": 750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 460,
+        "structure-unit-size": 750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 79,
+        "structure-unit-size": 750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 79,
+        "structure-unit-size": 800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 508,
+        "structure-unit-size": 800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 83,
+        "structure-unit-size": 800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 192,
+        "structure-unit-size": 850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 486,
+        "structure-unit-size": 850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 87,
+        "structure-unit-size": 850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 94,
+        "structure-unit-size": 900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 664,
+        "structure-unit-size": 900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 95,
+        "structure-unit-size": 900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 139,
+        "structure-unit-size": 950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 629,
+        "structure-unit-size": 950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 102,
+        "structure-unit-size": 950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 100,
+        "structure-unit-size": 1000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 804,
+        "structure-unit-size": 1000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 107,
+        "structure-unit-size": 1000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 106,
+        "structure-unit-size": 1050,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 868,
+        "structure-unit-size": 1050,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 113,
+        "structure-unit-size": 1050,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 218,
+        "structure-unit-size": 1100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 1048,
+        "structure-unit-size": 1100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 159,
+        "structure-unit-size": 1100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 123,
+        "structure-unit-size": 1150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 975,
+        "structure-unit-size": 1150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 214,
+        "structure-unit-size": 1150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 156,
+        "structure-unit-size": 1200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 1217,
+        "structure-unit-size": 1200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 131,
+        "structure-unit-size": 1200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 135,
+        "structure-unit-size": 1250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 1178,
+        "structure-unit-size": 1250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 139,
+        "structure-unit-size": 1250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 184,
+        "structure-unit-size": 1300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 1263,
+        "structure-unit-size": 1300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 275,
+        "structure-unit-size": 1300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 187,
+        "structure-unit-size": 1350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 1429,
+        "structure-unit-size": 1350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 149,
+        "structure-unit-size": 1350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 251,
+        "structure-unit-size": 1400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 1419,
+        "structure-unit-size": 1400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 156,
+        "structure-unit-size": 1400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 155,
+        "structure-unit-size": 1450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 1892,
+        "structure-unit-size": 1450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 230,
+        "structure-unit-size": 1450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 162,
+        "structure-unit-size": 1500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 1745,
+        "structure-unit-size": 1500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 168,
+        "structure-unit-size": 1500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 191,
+        "structure-unit-size": 1550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 1986,
+        "structure-unit-size": 1550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 227,
+        "structure-unit-size": 1550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 171,
+        "structure-unit-size": 1600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 2280,
+        "structure-unit-size": 1600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 181,
+        "structure-unit-size": 1600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 217,
+        "structure-unit-size": 1650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 2040,
+        "structure-unit-size": 1650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 187,
+        "structure-unit-size": 1650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 184,
+        "structure-unit-size": 1700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 2696,
+        "structure-unit-size": 1700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 194,
+        "structure-unit-size": 1700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 261,
+        "structure-unit-size": 1750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 2434,
+        "structure-unit-size": 1750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 275,
+        "structure-unit-size": 1750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 209,
+        "structure-unit-size": 1800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 2547,
+        "structure-unit-size": 1800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 254,
+        "structure-unit-size": 1800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 212,
+        "structure-unit-size": 1850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 2944,
+        "structure-unit-size": 1850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 219,
+        "structure-unit-size": 1850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 267,
+        "structure-unit-size": 1900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 3055,
+        "structure-unit-size": 1900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 276,
+        "structure-unit-size": 1900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 221,
+        "structure-unit-size": 1950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 2609,
+        "structure-unit-size": 1950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 233,
+        "structure-unit-size": 1950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 320,
+        "structure-unit-size": 2000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 3049,
+        "structure-unit-size": 2000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 241,
+        "structure-unit-size": 2000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 237,
+        "structure-unit-size": 2050,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 3221,
+        "structure-unit-size": 2050,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 249,
+        "structure-unit-size": 2050,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 246,
+        "structure-unit-size": 2100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 3641,
+        "structure-unit-size": 2100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 328,
+        "structure-unit-size": 2100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 432,
+        "structure-unit-size": 2150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 3682,
+        "structure-unit-size": 2150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 358,
+        "structure-unit-size": 2150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 257,
+        "structure-unit-size": 2200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 3421,
+        "structure-unit-size": 2200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 266,
+        "structure-unit-size": 2200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 307,
+        "structure-unit-size": 2250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 3794,
+        "structure-unit-size": 2250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 275,
+        "structure-unit-size": 2250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 264,
+        "structure-unit-size": 2300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 3834,
+        "structure-unit-size": 2300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 272,
+        "structure-unit-size": 2300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 275,
+        "structure-unit-size": 2350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 4652,
+        "structure-unit-size": 2350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 398,
+        "structure-unit-size": 2350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 326,
+        "structure-unit-size": 2400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 4012,
+        "structure-unit-size": 2400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 295,
+        "structure-unit-size": 2400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 283,
+        "structure-unit-size": 2450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 4952,
+        "structure-unit-size": 2450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 290,
+        "structure-unit-size": 2450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 307,
+        "structure-unit-size": 2500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 4944,
+        "structure-unit-size": 2500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 307,
+        "structure-unit-size": 2500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 362,
+        "structure-unit-size": 2550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 4862,
+        "structure-unit-size": 2550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 323,
+        "structure-unit-size": 2550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 446,
+        "structure-unit-size": 2600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 5625,
+        "structure-unit-size": 2600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 412,
+        "structure-unit-size": 2600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 377,
+        "structure-unit-size": 2650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 5901,
+        "structure-unit-size": 2650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 328,
+        "structure-unit-size": 2650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 368,
+        "structure-unit-size": 2700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 5798,
+        "structure-unit-size": 2700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 415,
+        "structure-unit-size": 2700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 358,
+        "structure-unit-size": 2750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 6019,
+        "structure-unit-size": 2750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 412,
+        "structure-unit-size": 2750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 770,
+        "structure-unit-size": 2800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 5743,
+        "structure-unit-size": 2800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 400,
+        "structure-unit-size": 2800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 334,
+        "structure-unit-size": 2850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 6361,
+        "structure-unit-size": 2850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 422,
+        "structure-unit-size": 2850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 470,
+        "structure-unit-size": 2900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 6577,
+        "structure-unit-size": 2900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 391,
+        "structure-unit-size": 2900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 477,
+        "structure-unit-size": 2950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 7132,
+        "structure-unit-size": 2950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 397,
+        "structure-unit-size": 2950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 368,
+        "structure-unit-size": 3000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 6736,
+        "structure-unit-size": 3000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 375,
+        "structure-unit-size": 3000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 369,
+        "structure-unit-size": 3050,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 6972,
+        "structure-unit-size": 3050,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 381,
+        "structure-unit-size": 3050,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 450,
+        "structure-unit-size": 3100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 7204,
+        "structure-unit-size": 3100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 418,
+        "structure-unit-size": 3100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 364,
+        "structure-unit-size": 3150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 8445,
+        "structure-unit-size": 3150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 669,
+        "structure-unit-size": 3150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 428,
+        "structure-unit-size": 3200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 7757,
+        "structure-unit-size": 3200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 405,
+        "structure-unit-size": 3200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 424,
+        "structure-unit-size": 3250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 7687,
+        "structure-unit-size": 3250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 397,
+        "structure-unit-size": 3250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 483,
+        "structure-unit-size": 3300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 8427,
+        "structure-unit-size": 3300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 572,
+        "structure-unit-size": 3300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 482,
+        "structure-unit-size": 3350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 8270,
+        "structure-unit-size": 3350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 471,
+        "structure-unit-size": 3350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 426,
+        "structure-unit-size": 3400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 9620,
+        "structure-unit-size": 3400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 431,
+        "structure-unit-size": 3400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 517,
+        "structure-unit-size": 3450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 9398,
+        "structure-unit-size": 3450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 509,
+        "structure-unit-size": 3450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 586,
+        "structure-unit-size": 3500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 9072,
+        "structure-unit-size": 3500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 445,
+        "structure-unit-size": 3500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 457,
+        "structure-unit-size": 3550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 9990,
+        "structure-unit-size": 3550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 440,
+        "structure-unit-size": 3550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 632,
+        "structure-unit-size": 3600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 10297,
+        "structure-unit-size": 3600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 504,
+        "structure-unit-size": 3600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 728,
+        "structure-unit-size": 3650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 10055,
+        "structure-unit-size": 3650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 467,
+        "structure-unit-size": 3650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 469,
+        "structure-unit-size": 3700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 11142,
+        "structure-unit-size": 3700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 501,
+        "structure-unit-size": 3700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 534,
+        "structure-unit-size": 3750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 10232,
+        "structure-unit-size": 3750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 559,
+        "structure-unit-size": 3750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 484,
+        "structure-unit-size": 3800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 11102,
+        "structure-unit-size": 3800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 486,
+        "structure-unit-size": 3800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 505,
+        "structure-unit-size": 3850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 12196,
+        "structure-unit-size": 3850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 643,
+        "structure-unit-size": 3850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 552,
+        "structure-unit-size": 3900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 11880,
+        "structure-unit-size": 3900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 585,
+        "structure-unit-size": 3900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 491,
+        "structure-unit-size": 3950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 12171,
+        "structure-unit-size": 3950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 555,
+        "structure-unit-size": 3950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 557,
+        "structure-unit-size": 4000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 12646,
+        "structure-unit-size": 4000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 615,
+        "structure-unit-size": 4000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 560,
+        "structure-unit-size": 4050,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 13450,
+        "structure-unit-size": 4050,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 1060,
+        "structure-unit-size": 4050,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 622,
+        "structure-unit-size": 4100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 13661,
+        "structure-unit-size": 4100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 575,
+        "structure-unit-size": 4100,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 585,
+        "structure-unit-size": 4150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 13548,
+        "structure-unit-size": 4150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 580,
+        "structure-unit-size": 4150,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 577,
+        "structure-unit-size": 4200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 13239,
+        "structure-unit-size": 4200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 551,
+        "structure-unit-size": 4200,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 547,
+        "structure-unit-size": 4250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 14342,
+        "structure-unit-size": 4250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 682,
+        "structure-unit-size": 4250,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 588,
+        "structure-unit-size": 4300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 14294,
+        "structure-unit-size": 4300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 609,
+        "structure-unit-size": 4300,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 544,
+        "structure-unit-size": 4350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 14797,
+        "structure-unit-size": 4350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 629,
+        "structure-unit-size": 4350,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 572,
+        "structure-unit-size": 4400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 15063,
+        "structure-unit-size": 4400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 643,
+        "structure-unit-size": 4400,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 728,
+        "structure-unit-size": 4450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 14745,
+        "structure-unit-size": 4450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 606,
+        "structure-unit-size": 4450,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 644,
+        "structure-unit-size": 4500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 14847,
+        "structure-unit-size": 4500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 607,
+        "structure-unit-size": 4500,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 614,
+        "structure-unit-size": 4550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 17524,
+        "structure-unit-size": 4550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 646,
+        "structure-unit-size": 4550,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 628,
+        "structure-unit-size": 4600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 15693,
+        "structure-unit-size": 4600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 773,
+        "structure-unit-size": 4600,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 609,
+        "structure-unit-size": 4650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 16721,
+        "structure-unit-size": 4650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 692,
+        "structure-unit-size": 4650,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 660,
+        "structure-unit-size": 4700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 16517,
+        "structure-unit-size": 4700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 621,
+        "structure-unit-size": 4700,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 779,
+        "structure-unit-size": 4750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 18056,
+        "structure-unit-size": 4750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 670,
+        "structure-unit-size": 4750,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 661,
+        "structure-unit-size": 4800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 18666,
+        "structure-unit-size": 4800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 714,
+        "structure-unit-size": 4800,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 619,
+        "structure-unit-size": 4850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 17140,
+        "structure-unit-size": 4850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 661,
+        "structure-unit-size": 4850,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 762,
+        "structure-unit-size": 4900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 17661,
+        "structure-unit-size": 4900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 646,
+        "structure-unit-size": 4900,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 663,
+        "structure-unit-size": 4950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 18908,
+        "structure-unit-size": 4950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 656,
+        "structure-unit-size": 4950,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      },
+      {
+        "amount": 652,
+        "structure-unit-size": 5000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "QuickSort(int*, int)"
+      },
+      {
+        "amount": 19822,
+        "structure-unit-size": 5000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "InsertSort(int*, int)"
+      },
+      {
+        "amount": 984,
+        "structure-unit-size": 5000,
+        "subtype": "time delta",
+        "type": "mixed",
+        "uid": "HeapSort(int*, int)"
+      }
+    ],
+    "time": "1.064163s"
+  }
+}
